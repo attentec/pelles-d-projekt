@@ -1,0 +1,12 @@
+{
+	"name": "dworkshop",
+	"authors": [
+		"zimzon"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, attentec",
+	"license": "proprietary",
+	"dependencies":{
+		"imageformats":"~>6.1.0"
+	}
+}
